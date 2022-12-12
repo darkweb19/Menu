@@ -1,7 +1,7 @@
 # Menu
 
-### A js nugget projects basically to understand how filtering works in javascript
+### A js nugget project basically to understand how filtering works in javascript
 
-##  To see the final result follow the link below
+## To see the final result follow the link below
 
 ### [Menu js]()
